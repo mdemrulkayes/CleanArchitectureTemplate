@@ -1,14 +1,15 @@
 {
+  "$schema": "http://json.schemastore.org/template",
   "author": "Emrul Kayes",
-  "name": "Clean Architecture Template",
-  "description": "Project template to create Clean Architecture based on Json Taylor",
-  "identity": "CleanArchitecture.Template.1.0",
+  "name": "Clean Architecture project template",
+  "description": "Project template to create project using Clean Architecture",
+  "identity": "Asai.CleanArchitecture",
   "shortName": "CleanArchitecture",
   "tags": {
     "language": "C#",
     "type": "project"
   },
-  "sourceName": "CleanArchitecture",
+  "sourceName": "CleanArchitecture.API",
   "symbols": {
     "Framework": {
       "type": "parameter",
